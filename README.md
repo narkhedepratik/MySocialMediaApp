@@ -1,0 +1,2 @@
+# MySocialMediaApp
+to learn jira
